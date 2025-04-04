@@ -1,0 +1,49 @@
+[core]
+RENARDO_USER_DIR = "/Users/jxfer/Library/Application Support/renardo"
+PUBLIC_SETTINGS_FILE = "/Users/jxfer/Library/Application Support/renardo/settings.toml"
+STARTUP_FILE_PATH = "/Users/jxfer/Desktop/renardo/src/renardo/Custom/startup.py"
+CPU_USAGE = 2
+CLOCK_LATENCY = 0
+BOOT_SCLANG_ON_STARTUP = false
+
+[samples]
+SAMPLES_DIR = "/Users/jxfer/Library/Application Support/renardo/sample_packs"
+SAMPLES_PACK_NUMBER = 0
+DEFAULT_SAMPLES_PACK_NAME = "0_foxdot_default"
+MAX_CHANNELS = 2
+
+[foxdot_editor]
+TEMP_FILE = "/Users/jxfer/Desktop/renardo/src/renardo/foxdot_editor/tmp/tempfile.txt"
+FONT = "Consolas"
+AUTO_COMPLETE_BRACKETS = true
+USE_ALPHA = true
+ALPHA_VALUE = 0.8
+MENU_ON_STARTUP = true
+CONSOLE_ON_STARTUP = true
+LINENUMBERS_ON_STARTUP = true
+TREEVIEW_ON_STARTUP = false
+TRANSPARENT_ON_STARTUP = false
+RECOVER_WORK = true
+LINE_NUMBER_MARKER_OFFSET = 0
+CHECK_FOR_UPDATE = true
+COLOR_THEME = "cyborg"
+TEXT_COLORS = "default"
+
+[sc_backend]
+RECORDING_DIR = "/Users/jxfer/Library/Application Support/renardo/rec"
+OSC_MIDI_ADDRESS = "/foxdot_midi"
+GET_SC_INFO = true
+ADDRESS = "localhost"
+PORT = 57110
+PORT2 = 57120
+FORWARD_PORT = 0
+FORWARD_ADDRESS = ""
+BOOT_SCLANG_ON_STARTUP = false
+SC3_PLUGINS = false
+SCCODE_LIBRARY = "/Users/jxfer/Library/Application Support/renardo/sccode_library"
+ACTIVATED_SCCODE_BANKS = [
+    "foxdot_core",
+    "community",
+    "crashserver",
+]
+PLAY_SCCODE_DIR = "/Users/jxfer/Library/Application Support/renardo/special_sccode"
