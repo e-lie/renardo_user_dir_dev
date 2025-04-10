@@ -1,19 +1,17 @@
 [core]
-RENARDO_USER_DIR = "/Users/jxfer/Library/Application Support/renardo"
-PUBLIC_SETTINGS_FILE = "/Users/jxfer/Library/Application Support/renardo/settings.toml"
-STARTUP_FILE_PATH = "/Users/jxfer/Desktop/renardo/src/renardo/Custom/startup.py"
+RENARDO_USER_DIR = "/home/elie/.config/renardo"
+PUBLIC_SETTINGS_FILE = "/home/elie/.config/renardo/settings.toml"
+STARTUP_FILE_PATH = "/home/elie/Bureau/renardo/src/renardo/Custom/startup.py"
 CPU_USAGE = 2
 CLOCK_LATENCY = 0
-BOOT_SCLANG_ON_STARTUP = false
 
 [samples]
-SAMPLES_DIR = "/Users/jxfer/Library/Application Support/renardo/sample_packs"
+SAMPLES_DIR = "/home/elie/.config/renardo/sample_packs"
 SAMPLES_PACK_NUMBER = 0
 DEFAULT_SAMPLES_PACK_NAME = "0_foxdot_default"
-MAX_CHANNELS = 2
 
 [foxdot_editor]
-TEMP_FILE = "/Users/jxfer/Desktop/renardo/src/renardo/foxdot_editor/tmp/tempfile.txt"
+TEMP_FILE = "/home/elie/Bureau/renardo/src/renardo/foxdot_editor/tmp/tempfile.txt"
 FONT = "Consolas"
 AUTO_COMPLETE_BRACKETS = true
 USE_ALPHA = true
@@ -30,7 +28,14 @@ COLOR_THEME = "cyborg"
 TEXT_COLORS = "default"
 
 [sc_backend]
-RECORDING_DIR = "/Users/jxfer/Library/Application Support/renardo/rec"
+SCCODE_LIBRARY = "/home/elie/.config/renardo/sccode_library"
+PLAY_SCCODE_DIR = "/home/elie/.config/renardo/special_sccode"
+ACTIVATED_SCCODE_BANKS = [
+    "foxdot_core",
+    "foxdot_community",
+    "crashserver",
+]
+RECORDING_DIR = "/home/elie/.config/renardo/rec"
 OSC_MIDI_ADDRESS = "/foxdot_midi"
 GET_SC_INFO = true
 ADDRESS = "localhost"
@@ -40,10 +45,4 @@ FORWARD_PORT = 0
 FORWARD_ADDRESS = ""
 BOOT_SCLANG_ON_STARTUP = false
 SC3_PLUGINS = false
-SCCODE_LIBRARY = "/Users/jxfer/Library/Application Support/renardo/sccode_library"
-ACTIVATED_SCCODE_BANKS = [
-    "foxdot_core",
-    "community",
-    "crashserver",
-]
-PLAY_SCCODE_DIR = "/Users/jxfer/Library/Application Support/renardo/special_sccode"
+SPECIAL_SCCODE_DIR = "/home/elie/.config/renardo/special_sccode"
