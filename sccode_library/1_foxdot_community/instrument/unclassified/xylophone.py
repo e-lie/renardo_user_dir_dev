@@ -29,7 +29,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="xylophone",
     fullname="Xylophone",
     description="Xylophone synth",

@@ -23,7 +23,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="pmcrotal",
     fullname="Pmcrotal",
     description="Pmcrotal synth",

@@ -22,7 +22,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="tritri",
     fullname="Tritri",
     description="Tritri synth",

@@ -15,7 +15,7 @@ osc = Pan2.ar(osc, pan);
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="twang",
     fullname="Twang",
     description="Twang synth",

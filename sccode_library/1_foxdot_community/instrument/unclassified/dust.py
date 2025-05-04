@@ -20,7 +20,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="dust",
     fullname="Dust",
     description="Dust synth",

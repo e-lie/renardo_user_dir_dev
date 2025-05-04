@@ -21,7 +21,7 @@ SynthDef.new(\\angel,
 )
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="angel",
     fullname="Angel",
     description="Angel synth",

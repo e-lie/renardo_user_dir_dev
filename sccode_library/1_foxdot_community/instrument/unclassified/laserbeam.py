@@ -23,7 +23,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="laserbeam",
     fullname="Laserbeam",
     description="Laserbeam synth",

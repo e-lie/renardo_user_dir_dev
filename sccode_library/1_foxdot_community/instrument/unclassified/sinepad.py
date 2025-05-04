@@ -25,7 +25,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="sinepad",
     fullname="Sinepad",
     description="Sinepad synth",

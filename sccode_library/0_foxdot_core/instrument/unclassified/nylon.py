@@ -14,7 +14,7 @@ osc = Pan2.ar(osc, pan);
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="nylon",
     fullname="Nylon",
     description="Nylon synth",

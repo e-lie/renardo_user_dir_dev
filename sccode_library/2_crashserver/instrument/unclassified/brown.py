@@ -22,7 +22,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="brown",
     fullname="Brown",
     description="Brown synth",

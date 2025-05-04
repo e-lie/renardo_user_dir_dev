@@ -25,7 +25,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="tb303",
     fullname="Tb303",
     description="Tb303 synth",

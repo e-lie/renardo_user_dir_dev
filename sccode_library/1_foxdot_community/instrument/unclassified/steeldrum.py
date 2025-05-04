@@ -30,7 +30,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="steeldrum",
     fullname="Steeldrum",
     description="Steeldrum synth",

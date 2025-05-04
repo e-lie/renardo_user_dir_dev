@@ -30,7 +30,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="epiano",
     fullname="Epiano",
     description="Epiano synth",

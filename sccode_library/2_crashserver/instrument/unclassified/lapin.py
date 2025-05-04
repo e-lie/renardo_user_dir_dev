@@ -44,7 +44,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="lapin",
     fullname="Lapin",
     description="Lapin synth",

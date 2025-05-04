@@ -31,7 +31,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="waves",
     fullname="Waves",
     description="Waves synth",

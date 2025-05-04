@@ -39,7 +39,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="sillyvoice",
     fullname="Sillyvoice",
     description="Sillyvoice synth",

@@ -24,7 +24,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="prof",
     fullname="Prof",
     description="Prof synth",

@@ -23,7 +23,7 @@ SynthDef.new(\\pads,
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="pads",
     fullname="Pads",
     description="Pads synth",

@@ -30,7 +30,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="rhpiano",
     fullname="Rhpiano",
     description="Rhpiano synth",

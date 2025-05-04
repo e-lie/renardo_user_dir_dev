@@ -23,7 +23,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="angel",
     fullname="Angel",
     description="Angel synth",

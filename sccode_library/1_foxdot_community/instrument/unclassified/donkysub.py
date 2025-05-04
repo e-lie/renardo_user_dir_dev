@@ -23,7 +23,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="donkysub",
     fullname="Donkysub",
     description="Donkysub synth",

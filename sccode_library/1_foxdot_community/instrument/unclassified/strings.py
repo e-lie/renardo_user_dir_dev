@@ -27,7 +27,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="strings",
     fullname="Strings",
     description="Strings synth",

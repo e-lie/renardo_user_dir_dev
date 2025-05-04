@@ -27,7 +27,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="chimebell",
     fullname="Chimebell",
     description="Chimebell synth",

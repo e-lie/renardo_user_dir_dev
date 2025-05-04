@@ -31,7 +31,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="kalimba",
     fullname="Kalimba",
     description="Kalimba synth",

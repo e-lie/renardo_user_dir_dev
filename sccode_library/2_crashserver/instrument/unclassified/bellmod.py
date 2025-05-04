@@ -36,7 +36,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="bellmod",
     fullname="Bellmod",
     description="Bellmod synth",

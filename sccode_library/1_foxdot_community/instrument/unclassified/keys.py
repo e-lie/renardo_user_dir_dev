@@ -23,7 +23,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="keys",
     fullname="Keys",
     description="Keys synth",

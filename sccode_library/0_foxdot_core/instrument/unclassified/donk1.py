@@ -14,7 +14,7 @@ osc = osc * [min(1, (1-pan)/2), min(1, (pan+1)/2)];
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="donk1",
     fullname="Donk1",
     description="Donk1 synth",

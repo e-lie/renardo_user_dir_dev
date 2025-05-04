@@ -12,7 +12,7 @@ osc = Pan2.ar(osc, pan);
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="play1",
     fullname="Play1",
     description="Play1 synth",

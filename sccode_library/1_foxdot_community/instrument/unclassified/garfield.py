@@ -28,7 +28,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="garfield",
     fullname="Garfield",
     description="Garfield synth",

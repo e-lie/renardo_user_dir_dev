@@ -25,7 +25,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="click",
     fullname="Click",
     description="Click synth",

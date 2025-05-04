@@ -16,7 +16,7 @@ osc = Pan2.ar(osc, pan);
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="scratch",
     fullname="Scratch",
     description="Scratch synth",

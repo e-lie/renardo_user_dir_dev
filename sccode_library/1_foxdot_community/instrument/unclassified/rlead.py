@@ -23,7 +23,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="rlead",
     fullname="Rlead",
     description="Rlead synth",

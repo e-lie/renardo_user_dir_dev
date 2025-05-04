@@ -23,7 +23,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="tribell",
     fullname="Tribell",
     description="Tribell synth",

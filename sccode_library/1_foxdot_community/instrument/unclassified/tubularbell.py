@@ -33,7 +33,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="tubularbell",
     fullname="Tubularbell",
     description="Tubularbell synth",

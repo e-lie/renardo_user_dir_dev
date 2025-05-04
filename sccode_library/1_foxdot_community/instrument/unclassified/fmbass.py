@@ -38,7 +38,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="fmbass",
     fullname="Fmbass",
     description="Fmbass synth",

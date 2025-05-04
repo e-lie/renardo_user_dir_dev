@@ -1,0 +1,1336 @@
+{
+	"type": "Project",
+	"version": 1,
+	"name": "3_spack3",
+	"rootPath": "/home/elie/.config/renardo/samples/",
+	"assets": [
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "a/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "a/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "a/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "c/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "d/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "e/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "f/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "g/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "h/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "i/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "j/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "k/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "l/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "m/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "n/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "o/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "p/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "r/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "t/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "q/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "s/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "u/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "v/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "z/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "w/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "x/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "y/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "c/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "c/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "d/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "d/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "e/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "e/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "f/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "f/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "g/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "g/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "h/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "h/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "i/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "i/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "j/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "j/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "k/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "k/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "l/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "l/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "m/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "m/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "n/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "n/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "o/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "o/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "p/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "p/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "q/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "q/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "r/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "r/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "s/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "s/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "t/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "t/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "u/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "u/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "v/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "v/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "w/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "w/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "x/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "x/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "y/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "y/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "z/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "z/upper/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/caret/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/exclamation/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/hyphen/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/equals/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/dollar/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/at/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/semicolon/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/colon/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/question/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/plus/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/percent/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/hash/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/1/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/2/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/3/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/4/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/ampersand/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/asterix/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/backslash/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/bar/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/forwardslash/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/lessthan/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/tilde/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "",
+				"locationPath": ""
+			},
+			"sequenceIndex": -1
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "a/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "samples/1_pitchglitch_samples/t/upper/005_Bell_Cowbell_NoN.wav",
+				"locationPath": "/home/elie/.config/renardo/sononym.db"
+			},
+			"sequenceIndex": 0
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "c/lower/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "samples/1_pitchglitch_samples/s/lower/031_Shaker_ShakerRev_SamboneHam.wav",
+				"locationPath": "/home/elie/.config/renardo/sononym.db"
+			},
+			"sequenceIndex": 0
+		},
+		{
+			"type": "ProjectAsset",
+			"version": 2,
+			"resolveTokens": false,
+			"exportPath": "_/exclamation/",
+			"source": {
+				"type": "FileLocation",
+				"version": 1,
+				"filename": "samples/1_pitchglitch_samples/q/upper/001_SoundFX_HiHatHSR11_NoN.wav",
+				"locationPath": "/home/elie/.config/renardo/sononym.db"
+			},
+			"sequenceIndex": 0
+		}
+	],
+	"expandedFolders": [],
+	"autoExportEnabled": true
+}

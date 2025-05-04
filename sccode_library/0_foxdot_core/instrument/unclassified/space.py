@@ -21,7 +21,7 @@ SynthDef.new(\\space,
 )
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="space",
     fullname="Space",
     description="Space synth",

@@ -21,7 +21,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="cluster",
     fullname="Cluster",
     description="Cluster synth",

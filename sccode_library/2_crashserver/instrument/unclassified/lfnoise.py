@@ -27,7 +27,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="lfnoise",
     fullname="Lfnoise",
     description="Lfnoise synth",

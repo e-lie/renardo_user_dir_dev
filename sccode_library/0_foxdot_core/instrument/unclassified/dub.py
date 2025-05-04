@@ -16,7 +16,7 @@ osc = Pan2.ar(osc, pan);
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="dub",
     fullname="Dub",
     description="Dub synth",

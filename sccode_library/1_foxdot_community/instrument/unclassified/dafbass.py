@@ -25,7 +25,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="dafbass",
     fullname="Dafbass",
     description="Dafbass synth",

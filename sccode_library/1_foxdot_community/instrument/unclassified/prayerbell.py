@@ -81,7 +81,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="prayerbell",
     fullname="Prayerbell",
     description="Prayerbell synth",

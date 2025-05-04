@@ -18,7 +18,7 @@ SynthDef(\\sawbass,
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="sawbass",
     fullname="Sawbass",
     description="Sawbass synth",

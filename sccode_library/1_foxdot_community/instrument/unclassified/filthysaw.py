@@ -25,7 +25,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="filthysaw",
     fullname="Filthysaw",
     description="Filthysaw synth",

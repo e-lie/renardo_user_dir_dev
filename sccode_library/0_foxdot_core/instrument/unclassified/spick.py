@@ -16,7 +16,7 @@ osc = Pan2.ar(osc, pan);
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="spick",
     fullname="Spick",
     description="Spick synth",

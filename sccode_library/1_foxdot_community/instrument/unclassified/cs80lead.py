@@ -33,7 +33,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="cs80lead",
     fullname="Cs80lead",
     description="Cs80lead synth",

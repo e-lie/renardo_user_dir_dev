@@ -23,7 +23,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="dustv",
     fullname="Dustv",
     description="Dustv synth",

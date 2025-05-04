@@ -29,7 +29,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="sosbell",
     fullname="Sosbell",
     description="Sosbell synth",

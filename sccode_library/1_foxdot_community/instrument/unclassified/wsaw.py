@@ -28,7 +28,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="wsaw",
     fullname="Wsaw",
     description="Wsaw synth",

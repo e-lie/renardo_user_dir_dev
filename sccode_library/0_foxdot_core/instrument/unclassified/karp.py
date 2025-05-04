@@ -18,7 +18,7 @@ osc = Pan2.ar(osc, pan);
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="karp",
     fullname="Karp",
     description="Karp synth",

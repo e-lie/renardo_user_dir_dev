@@ -33,7 +33,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="virus",
     fullname="Virus",
     description="Virus synth",

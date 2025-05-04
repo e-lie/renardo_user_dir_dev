@@ -63,7 +63,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="sputter",
     fullname="Sputter",
     description="Sputter synth",

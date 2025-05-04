@@ -22,7 +22,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="square",
     fullname="Square",
     description="Square synth",

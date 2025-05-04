@@ -12,7 +12,7 @@ osc = Pan2.ar(osc, pan);
 """
 
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="play2",
     fullname="Play sampler mode stereo",
     description="FoxDot rhytmic sampler 'play'",

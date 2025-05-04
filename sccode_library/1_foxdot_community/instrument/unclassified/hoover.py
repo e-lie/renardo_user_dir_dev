@@ -22,7 +22,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="hoover",
     fullname="Hoover",
     description="Hoover synth",

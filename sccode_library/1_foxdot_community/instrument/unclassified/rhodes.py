@@ -22,7 +22,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="rhodes",
     fullname="Rhodes",
     description="Rhodes synth",

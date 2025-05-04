@@ -22,7 +22,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="sine",
     fullname="Sine",
     description="Sine synth",

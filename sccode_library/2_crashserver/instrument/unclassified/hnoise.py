@@ -31,7 +31,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="hnoise",
     fullname="Hnoise",
     description="Hnoise synth",

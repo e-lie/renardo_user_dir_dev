@@ -29,7 +29,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="birdy",
     fullname="Birdy",
     description="Birdy synth",

@@ -21,7 +21,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="pianovel",
     fullname="Pianovel",
     description="Pianovel synth",

@@ -35,7 +35,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="dopple",
     fullname="Dopple",
     description="Dopple synth",

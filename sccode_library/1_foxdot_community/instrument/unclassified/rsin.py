@@ -24,7 +24,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="rsin",
     fullname="Rsin",
     description="Rsin synth",

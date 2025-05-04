@@ -25,7 +25,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="fm",
     fullname="Fm",
     description="Fm synth",

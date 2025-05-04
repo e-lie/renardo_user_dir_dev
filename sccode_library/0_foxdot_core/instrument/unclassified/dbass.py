@@ -16,7 +16,7 @@ SynthDef.new(\\dbass,
 )
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="dbass",
     fullname="Dbass",
     description="Dbass synth",

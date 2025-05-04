@@ -57,7 +57,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="bassguitar",
     fullname="Bassguitar",
     description="Bassguitar synth",

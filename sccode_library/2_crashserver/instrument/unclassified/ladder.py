@@ -22,7 +22,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="ladder",
     fullname="Ladder",
     description="Ladder synth",

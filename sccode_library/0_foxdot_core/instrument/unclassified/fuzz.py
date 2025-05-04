@@ -16,7 +16,7 @@ osc = Pan2.ar(osc, pan);
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="fuzz",
     fullname="Fuzz",
     description="Fuzz synth",

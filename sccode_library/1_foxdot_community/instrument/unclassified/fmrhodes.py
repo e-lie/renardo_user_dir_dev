@@ -29,7 +29,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="fmrhodes",
     fullname="Fmrhodes",
     description="Fmrhodes synth",

@@ -22,7 +22,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="tremsynth",
     fullname="Tremsynth",
     description="Tremsynth synth",

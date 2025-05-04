@@ -22,7 +22,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="radio",
     fullname="Radio",
     description="Radio synth",

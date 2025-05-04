@@ -21,7 +21,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="bounce",
     fullname="Bounce",
     description="Bounce synth",

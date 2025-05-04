@@ -66,7 +66,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="ebass",
     fullname="Ebass",
     description="Ebass synth",

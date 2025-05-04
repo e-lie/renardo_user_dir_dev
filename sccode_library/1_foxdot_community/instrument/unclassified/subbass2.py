@@ -40,7 +40,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="subbass2",
     fullname="Subbass2",
     description="Subbass2 synth",

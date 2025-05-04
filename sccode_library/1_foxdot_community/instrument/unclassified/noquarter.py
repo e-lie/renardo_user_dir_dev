@@ -48,7 +48,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="noquarter",
     fullname="Noquarter",
     description="Noquarter synth",

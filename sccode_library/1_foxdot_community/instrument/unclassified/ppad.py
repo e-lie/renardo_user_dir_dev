@@ -22,7 +22,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="ppad",
     fullname="Ppad",
     description="Ppad synth",

@@ -15,7 +15,7 @@ osc = Pan2.ar(osc, pan);
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="star",
     fullname="Star",
     description="Star synth",

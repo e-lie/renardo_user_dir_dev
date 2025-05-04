@@ -27,7 +27,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="drone",
     fullname="Drone",
     description="Drone synth",

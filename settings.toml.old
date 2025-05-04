@@ -1,0 +1,46 @@
+[core]
+PUBLIC_SETTINGS_FILE = "/home/elie/.config/renardo/settings.toml"
+RENARDO_USER_DIR = "/home/elie/.config/renardo"
+STARTUP_FILE_PATH = "/home/elie/Bureau/renardo/src/renardo/Custom/startup.py"
+CPU_USAGE = 2
+CLOCK_LATENCY = 0
+
+[samples]
+SAMPLES_DIR = "/home/elie/.config/renardo/sample_packs"
+SAMPLES_PACK_NUMBER = 0
+DEFAULT_SAMPLES_PACK_NAME = "0_foxdot_default"
+
+[foxdot_editor]
+TEMP_FILE = "/home/elie/Bureau/renardo/src/renardo/foxdot_editor/tmp/tempfile.txt"
+FONT = "Consolas"
+AUTO_COMPLETE_BRACKETS = true
+USE_ALPHA = true
+ALPHA_VALUE = 0.8
+MENU_ON_STARTUP = true
+CONSOLE_ON_STARTUP = true
+LINENUMBERS_ON_STARTUP = true
+TREEVIEW_ON_STARTUP = false
+TRANSPARENT_ON_STARTUP = false
+RECOVER_WORK = true
+LINE_NUMBER_MARKER_OFFSET = 0
+CHECK_FOR_UPDATE = true
+COLOR_THEME = "cyborg"
+TEXT_COLORS = "default"
+
+[sc_backend]
+SCCODE_LIBRARY = "/home/elie/.config/renardo/sccode_library"
+PLAY_SCCODE_DIR = "/home/elie/.config/renardo/special_sccode"
+ACTIVATED_SCCODE_BANKS = [
+    "foxdot_core",
+]
+RECORDING_DIR = "/home/elie/.config/renardo/rec"
+OSC_MIDI_ADDRESS = "/foxdot_midi"
+GET_SC_INFO = true
+ADDRESS = "localhost"
+PORT = 57110
+PORT2 = 57120
+FORWARD_PORT = 0
+FORWARD_ADDRESS = ""
+BOOT_SCLANG_ON_STARTUP = false
+SC3_PLUGINS = false
+SPECIAL_SCCODE_DIR = "/home/elie/.config/renardo/special_sccode"

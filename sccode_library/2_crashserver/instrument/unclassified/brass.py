@@ -26,7 +26,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="brass",
     fullname="Brass",
     description="Brass synth",

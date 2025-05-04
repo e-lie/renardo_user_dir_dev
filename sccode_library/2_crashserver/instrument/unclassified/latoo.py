@@ -21,7 +21,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="latoo",
     fullname="Latoo",
     description="Latoo synth",

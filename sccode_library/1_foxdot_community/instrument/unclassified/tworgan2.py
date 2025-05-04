@@ -25,7 +25,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="tworgan2",
     fullname="Tworgan2",
     description="Tworgan2 synth",

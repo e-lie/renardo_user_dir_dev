@@ -25,7 +25,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="four",
     fullname="Four",
     description="Four synth",

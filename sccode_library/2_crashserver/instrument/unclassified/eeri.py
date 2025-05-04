@@ -29,7 +29,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="eeri",
     fullname="Eeri",
     description="Eeri synth",

@@ -38,7 +38,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="grat",
     fullname="Grat",
     description="Grat synth",

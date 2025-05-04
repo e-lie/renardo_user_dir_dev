@@ -22,7 +22,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="pasha",
     fullname="Pasha",
     description="Pasha synth",

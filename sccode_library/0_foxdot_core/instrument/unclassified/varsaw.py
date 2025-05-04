@@ -15,7 +15,7 @@ osc = Pan2.ar(osc, pan);
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="varsaw",
     fullname="Varsaw",
     description="Varsaw synth",

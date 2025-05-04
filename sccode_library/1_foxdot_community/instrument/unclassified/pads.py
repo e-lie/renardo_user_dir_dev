@@ -24,7 +24,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="pads",
     fullname="Pads",
     description="Pads synth",

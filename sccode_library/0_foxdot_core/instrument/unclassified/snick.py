@@ -14,7 +14,7 @@ osc = Pan2.ar(osc, pan);
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="snick",
     fullname="Snick",
     description="Snick synth",

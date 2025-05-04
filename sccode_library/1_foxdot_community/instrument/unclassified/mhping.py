@@ -21,7 +21,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="mhping",
     fullname="Mhping",
     description="Mhping synth",

@@ -17,7 +17,7 @@ osc = Pan2.ar(osc, pan);
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="sinepad",
     fullname="Sinepad",
     description="Sinepad synth",

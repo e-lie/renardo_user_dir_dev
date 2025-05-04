@@ -19,7 +19,7 @@ osc = Pan2.ar(osc, pan);
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="sitar",
     fullname="Sitar",
     description="Sitar synth",

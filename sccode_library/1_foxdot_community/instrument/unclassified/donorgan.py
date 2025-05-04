@@ -24,7 +24,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="donorgan",
     fullname="Donorgan",
     description="Donorgan synth",

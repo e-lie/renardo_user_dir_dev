@@ -17,7 +17,7 @@ SynthDef.new(\\ambi,
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="ambi",
     fullname="Ambi",
     description="Ambi synth",

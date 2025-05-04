@@ -50,7 +50,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="gaze",
     fullname="Gaze",
     description="Gaze synth",

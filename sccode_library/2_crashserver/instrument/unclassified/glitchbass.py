@@ -31,7 +31,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="glitchbass",
     fullname="Glitchbass",
     description="Glitchbass synth",

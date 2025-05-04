@@ -24,7 +24,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="moogpluck2",
     fullname="Moogpluck2",
     description="Moogpluck2 synth",

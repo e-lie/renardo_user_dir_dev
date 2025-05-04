@@ -21,7 +21,7 @@ SynthDef(\\prophet,
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="prophet",
     fullname="Prophet",
     description="Prophet synth",

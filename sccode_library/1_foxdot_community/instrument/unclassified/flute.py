@@ -44,7 +44,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="flute",
     fullname="Flute",
     description="Flute synth",

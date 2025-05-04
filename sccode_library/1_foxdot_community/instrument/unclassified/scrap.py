@@ -22,7 +22,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="scrap",
     fullname="Scrap",
     description="Scrap synth",

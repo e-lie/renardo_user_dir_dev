@@ -26,7 +26,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="alva",
     fullname="Alva",
     description="Alva synth",

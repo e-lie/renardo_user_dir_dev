@@ -55,7 +55,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="linesaw",
     fullname="Linesaw",
     description="Linesaw synth",

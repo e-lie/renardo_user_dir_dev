@@ -19,7 +19,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="blips",
     fullname="Blips",
     description="Blips synth",

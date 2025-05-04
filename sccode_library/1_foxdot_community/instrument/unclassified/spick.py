@@ -24,7 +24,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="spick",
     fullname="Spick",
     description="Spick synth",

@@ -26,7 +26,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="risseto",
     fullname="Risseto",
     description="Risseto synth",

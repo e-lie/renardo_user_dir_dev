@@ -21,7 +21,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="organ2",
     fullname="Organ2",
     description="Organ2 synth",

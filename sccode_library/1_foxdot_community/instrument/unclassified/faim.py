@@ -40,7 +40,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="faim",
     fullname="Faim",
     description="Faim synth",

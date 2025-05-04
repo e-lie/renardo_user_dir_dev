@@ -24,7 +24,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="moogbass",
     fullname="Moogbass",
     description="Moogbass synth",

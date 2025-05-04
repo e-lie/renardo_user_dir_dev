@@ -39,7 +39,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="pbass",
     fullname="Pbass",
     description="Pbass synth",

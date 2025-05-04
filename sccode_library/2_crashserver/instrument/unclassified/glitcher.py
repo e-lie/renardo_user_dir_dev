@@ -34,7 +34,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="glitcher",
     fullname="Glitcher",
     description="Glitcher synth",

@@ -22,7 +22,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="rsaw",
     fullname="Rsaw",
     description="Rsaw synth",

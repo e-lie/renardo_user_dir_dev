@@ -24,7 +24,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="supersaw",
     fullname="Supersaw",
     description="Supersaw synth",

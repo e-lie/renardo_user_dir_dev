@@ -48,7 +48,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="organ",
     fullname="Organ",
     description="Organ synth",

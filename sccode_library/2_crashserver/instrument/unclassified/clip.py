@@ -21,7 +21,7 @@ metadata: (
 ).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="clip",
     fullname="Clip",
     description="Clip synth",

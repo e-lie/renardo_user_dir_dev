@@ -20,7 +20,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="chipsy",
     fullname="Chipsy",
     description="Chipsy synth",

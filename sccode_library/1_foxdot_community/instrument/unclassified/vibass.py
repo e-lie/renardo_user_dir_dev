@@ -24,7 +24,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="vibass",
     fullname="Vibass",
     description="Vibass synth",

@@ -22,7 +22,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="noisynth",
     fullname="Noisynth",
     description="Noisynth synth",

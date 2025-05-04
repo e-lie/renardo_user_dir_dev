@@ -28,7 +28,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="harp",
     fullname="Harp",
     description="Harp synth",

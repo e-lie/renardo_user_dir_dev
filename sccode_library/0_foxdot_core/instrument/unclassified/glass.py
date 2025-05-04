@@ -17,7 +17,7 @@ osc = Pan2.ar(osc, pan);
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="glass",
     fullname="Glass",
     description="Glass synth",

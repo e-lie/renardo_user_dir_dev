@@ -35,7 +35,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="abass",
     fullname="Abass",
     description="Abass synth",

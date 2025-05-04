@@ -46,7 +46,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="stargazer",
     fullname="Stargazer",
     description="Stargazer synth",

@@ -22,7 +22,7 @@ metadata: (
 )).add;
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="wobblebass",
     fullname="Wobblebass",
     description="Wobblebass synth",

@@ -25,7 +25,7 @@ metadata:(
 ).add
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="mhpad",
     fullname="Mhpad",
     description="Mhpad synth",

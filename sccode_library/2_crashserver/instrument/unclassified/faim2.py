@@ -45,7 +45,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="faim2",
     fullname="Faim2",
     description="Faim2 synth",

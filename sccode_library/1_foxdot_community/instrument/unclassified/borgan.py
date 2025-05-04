@@ -29,7 +29,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="borgan",
     fullname="Borgan",
     description="Borgan synth",

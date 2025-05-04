@@ -24,7 +24,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="triwave",
     fullname="Triwave",
     description="Triwave synth",

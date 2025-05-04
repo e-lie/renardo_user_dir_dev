@@ -30,7 +30,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="sos",
     fullname="Sos",
     description="Sos synth",

@@ -10,7 +10,7 @@ osc = Pan2.ar(osc, pan);
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="mysynth",
     fullname="Mysynth",
     description="Mysynth synth",

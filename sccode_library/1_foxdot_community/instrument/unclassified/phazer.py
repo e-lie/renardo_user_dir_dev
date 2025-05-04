@@ -26,7 +26,7 @@ metadata: (
 
 """
 
-synth = SCSynth(
+synth = SCInstrument(
     shortname="phazer",
     fullname="Phazer",
     description="Phazer synth",
