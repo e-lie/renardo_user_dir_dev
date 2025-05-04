@@ -1,5 +1,5 @@
 [core]
-PUBLIC_SETTINGS_FILE = "/home/elie/.config/renardo/settings.toml"
+PUBLIC_SETTINGS_FILE = "/Users/jxfer/Library/Application Support/renardo/settings.toml"
 CPU_USAGE = 2
 CLOCK_LATENCY = 0
 
@@ -23,8 +23,8 @@ TEXT_COLORS = "default"
 [sc_backend]
 ACTIVATED_SCCODE_BANKS = [
     "foxdot_core",
-    "crashserver",
     "foxdot_community",
+    "crashserver",
 ]
 OSC_MIDI_ADDRESS = "/foxdot_midi"
 GET_SC_INFO = true
